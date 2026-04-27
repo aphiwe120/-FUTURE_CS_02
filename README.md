@@ -21,4 +21,4 @@ This project serves as a practical demonstration of threat intelligence and secu
 3.  **Risk Mitigation:** Developed a strict set of security guidelines tailored to the specific threats identified in the sample, converting technical findings into plain-language business rules.
 
 ## 📂 Project Files
-* [Phishing Detection and Awareness Report.pdf](./Phishing_Detection_and_Awareness_Report.pdf) - The complete analytical report and employee guide.
+* [Phishing Detection and Awareness Report.pdf](Phishing_Detection_and_Awareness_Report.pdf) - The complete analytical report and employee guide.
